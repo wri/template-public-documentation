@@ -18,6 +18,8 @@ markdown_extensions:
       permalink: True
   - admonition
   - pymdownx.tabbed
+  - pymdownx.highlight
+  - pymdownx.superfences
  
 pages:
   - 'Home': 'index.md'
